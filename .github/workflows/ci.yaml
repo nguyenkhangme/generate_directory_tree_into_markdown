@@ -15,4 +15,4 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install -r requirements.txt
-      - run: python generate_directory_tree_into_markdown/generate_directory_tree_into_markdown.py
+      - run: generate_directory_tree_into_markdown.py
