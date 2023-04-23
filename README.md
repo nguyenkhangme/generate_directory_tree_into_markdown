@@ -6,6 +6,6 @@ Change `except_folders` and `accept_files` inside `generate_directory_tree_into_
 
 The fancy version: generate_directory_tree_into_markdown.py, use it with requirements.txt
 
-The build faster version: generate_directory_tree_into_markdown.py
+The build faster version (using for this repository): generate_directory_tree_into_markdown_without_numpy.py
 
 Future improvement: add `where_to_place_markdown_file`  to `generate_directory_tree_into_markdown`
