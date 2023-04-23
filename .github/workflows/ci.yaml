@@ -14,5 +14,4 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - run: pip install -r requirements.txt
-      - run: python generate_directory_tree_into_markdown.py
+      - run: python generate_directory_tree_into_markdown_without_numpy.py
