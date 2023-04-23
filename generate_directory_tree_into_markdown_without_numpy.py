@@ -28,7 +28,7 @@ def generate_directory_tree_into_markdown(startpath):
 
 
 if __name__ == "__main__":
-    file_path = 'tocs.md'
+    file_path = './tocs.md'
     with open(file_path,'w') as fp:
         fp.write('# Table of Contents\n\n')
         fp.write(generate_directory_tree_into_markdown('docs'))
