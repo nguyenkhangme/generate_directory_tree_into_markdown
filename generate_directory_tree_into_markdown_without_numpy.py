@@ -2,13 +2,13 @@ import os
 
 
 def generate_directory_tree_into_markdown(startpath):
-    except_folder=['image', 'stylesheets', 'font', 'javascripts', '.ipynb_checkpoints']
+    except_folders=['image', 'stylesheets', 'font', 'javascripts', '.ipynb_checkpoints']
     accept_files = ['.md']
     markdown_content=''
     for root, dirs, files in os.walk(startpath):
         level = root.replace(startpath, '').count(os.sep)
         indent = ' ' * 4 * (level)
-        for x in [x in root for x in except_folder]:
+        for x in [x in root for x in except_folders]:
             condition = False
             if x:
                 condition = True 
