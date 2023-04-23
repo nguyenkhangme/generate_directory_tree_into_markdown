@@ -1,0 +1,23 @@
+# Table of Contents
+
+- [docs](<docs>)/
+    - [Blog](<docs/Blog>)/
+        - [nguyenkhang.me.md](<docs/Blog/nguyenkhang.me.md>)
+        - [Tech](<docs/Blog/Tech>)/
+            - [how to - the word.md](<docs/Blog/Tech/how to - the word.md>)
+        - [Non Tech](<docs/Blog/Non Tech>)/
+            - [why data is so sexy.md](<docs/Blog/Non Tech/why data is so sexy.md>)
+    - [Novel](<docs/Novel>)/
+        - [Sci-fi](<docs/Novel/Sci-fi>)/
+            - [which book.md](<docs/Novel/Sci-fi/which book.md>)
+        - [Romantic](<docs/Novel/Romantic>)/
+            - [The Bridges of Madison County.md](<docs/Novel/Romantic/The Bridges of Madison County.md>)
+    - [Courses](<docs/Courses>)/
+        - [Khoa hoc du lieu](<docs/Courses/Khoa hoc du lieu>)/
+            - [khoahocdulieu.org.md](<docs/Courses/Khoa hoc du lieu/khoahocdulieu.org.md>)
+            - [Python for beginners](<docs/Courses/Khoa hoc du lieu/Python for beginners>)/
+                - [this page is for testing link with space.md](<docs/Courses/Khoa hoc du lieu/Python for beginners/this page is for testing link with space.md>)
+        - [Data Learner Course](<docs/Courses/Data Learner Course>)/
+            - [datalearner.org.md](<docs/Courses/Data Learner Course/datalearner.org.md>)
+            - [Nomarl Ml](<docs/Courses/Data Learner Course/Nomarl Ml>)/
+                - [venv.md](<docs/Courses/Data Learner Course/Nomarl Ml/venv.md>)
