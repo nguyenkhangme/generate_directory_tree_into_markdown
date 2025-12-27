@@ -1,6 +1,10 @@
 # generate_directory_tree_into_markdown
 
-Using Python to generate a directory tree into markdown, is helpful for document pages with accept files (like .md) and except folders (like images) to generate
+Use for documentation websites, this repo provides a Python script and demonstrates how to use GitHub Actions to automate the generation of a TOC for the repository everytime new push to main happens. The TOCs generator allow user to select specific file name patterns and exclude folder names
+
+---
+
+Using Python to generate a directory tree into markdown. This is helpful for document pages with accepted files (like .md) and except folders (like images) to generate
 
 Change `except_folders` and `accept_files` inside `generate_directory_tree_into_markdown`
 
